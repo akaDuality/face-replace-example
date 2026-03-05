@@ -2,23 +2,31 @@
   "models": [
     {
       "identifier": "ArcFace",
-      "fileName": "ArcFace.mlmodelc",
-      "minFileSize": 174000000
+      "url": "https://github.com/akaDuality/face-replace-models/releases/download/v1/ArcFace.mlmodelc.zip",
+      "fileSize": 160308113,
+      "minModelSize": 174000000,
+      "version": 1
     },
     {
       "identifier": "InSwapper",
-      "fileName": "InSwapper.mlmodelc",
-      "minFileSize": 553000000
+      "url": "https://github.com/akaDuality/face-replace-models/releases/download/v1/InSwapper.mlmodelc.zip",
+      "fileSize": 513421784,
+      "minModelSize": 553000000,
+      "version": 1
     },
     {
       "identifier": "GFPGAN",
-      "fileName": "GFPGAN.mlmodelc",
-      "minFileSize": 340000000
+      "url": "https://github.com/akaDuality/face-replace-models/releases/download/v1/GFPGAN.mlmodelc.zip",
+      "fileSize": 315104360,
+      "minModelSize": 340000000,
+      "version": 1
     },
     {
       "identifier": "FaceParser",
-      "fileName": "FaceParser.mlmodelc",
-      "minFileSize": 93000000
+      "url": "https://github.com/akaDuality/face-replace-models/releases/download/v1/FaceParser.mlmodelc.zip",
+      "fileSize": 86566420,
+      "minModelSize": 93000000,
+      "version": 1
     }
   ]
 }
