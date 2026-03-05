@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "identifier": "ArcFace",
+      "fileName": "ArcFace.mlmodelc",
+      "minFileSize": 174000000
+    },
+    {
+      "identifier": "InSwapper",
+      "fileName": "InSwapper.mlmodelc",
+      "minFileSize": 553000000
+    },
+    {
+      "identifier": "GFPGAN",
+      "fileName": "GFPGAN.mlmodelc",
+      "minFileSize": 340000000
+    },
+    {
+      "identifier": "FaceParser",
+      "fileName": "FaceParser.mlmodelc",
+      "minFileSize": 93000000
+    }
+  ]
+}
